@@ -43,6 +43,10 @@ h3 > small {
   margin-bottom: 20px;
 }
 
+#description h6 {
+  font-weight: normal;
+}
+
 #info i {
   margin-right: 5px;
 }
